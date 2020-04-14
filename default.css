@@ -1,5 +1,5 @@
 @font-face {
-  font-family: sans-serif;
+  font-family: Helvetica, sans-serif;
   font-style: normal;
   font-weight: 400;
   src: local('Ubuntu'), url(http://fonts.gstatic.com/s/ubuntu/v7/_xyN3apAT_yRRDeqB3sPRg.woff) format('woff');
@@ -21,7 +21,7 @@ body {
 	/*background: #DEDEDE;*/
 	/*background: #3B3B3B;*/
 	background: #eeedeb;
-	font-family: sans-serif, monospace, Ubuntu;
+	font-family: Helvetica, sans-serif, monospace, Ubuntu;
 	/*color: #424140;*/
 	/*color: #D1D1D1;*/
 	color: #4f5961;
@@ -38,7 +38,7 @@ h1, h2, h3 {
 	/*color: #424140;*/
 	/*color: #D1D1D1;*/
 	color: black;
-	font-family: sans-serif, Ubuntu;
+	font-family: Helvetica, sans-serif, Ubuntu;
 }
 
 h1 {
